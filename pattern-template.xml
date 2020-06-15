@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern-template name="peeragogical-action-review" title="Peeragogical Action Review" xmlns-id="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns="htx-scheme-id://org.groupware-systems.20190227T133048Z/meta-pattern/pattern-template.20200511T001800Z">
+  <section name="intention-review" title="Review the intention: what do we expect to learn or make together?"/>
+  <section name="what-happened" title="Establish what is happening: what and how are we learning?"/>
+  <section name="what-happened-perspectives" title="What are some different perspectives on what’s happening?"/>
+  <section name="learnings-changes" title="What did we learn or change?"/>
+  <section name="what-else-should-change-going-forward" title="What else should we change going forward?"/>
+</pattern-template>
