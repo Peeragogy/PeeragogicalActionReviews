@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<peeragogical-action-review title="Anticipation Paper Progress PAR 2020-06-05" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z">
+<peeragogical-action-review title="Anticipation Paper Progress PAR 2020-06-05" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
   <intention-review>
-    Explore patterns by various means, towards the Futures paper.
+    <html:ul>
+      <html:li>Explore patterns by various means, towards the “Futures” paper originating from the 2019 Anticipation Conference</html:li>
+    </html:ul>
   </intention-review>
   <what-happened>
-    Discussion between Charlie (as "Charlotte" today), Ray, Hermando, Joe, Paola.
-    Initially we talked about technology and prog
-    Constructing &amp; friendly critique of the Patterns of Peeragogy paper (see attached)
-    Revisiting the fundamentals of patterns for background and intro paper
+    <html:ul>
+      <html:li>Discussion between Charlie Danoff (as “Charlotte” today), Ray Puzio, Hermando Cintra, Joe Corneli, Paola Ricaurte</html:li>
+      <html:li>Initially we talked about technology and progress</html:li>
+      <html:li><html:a href="https://17548107086111028719.googlegroups.com/attach/41474eea0ad58/Screenshot%20from%202020-06-05%2015-03-31.png?part=0.1&amp;view=1">Constructing &amp; friendly critique</html:a> of the Patterns of Peeragogy paper</html:li>
+      <html:li>Revisiting the fundamentals of patterns for background and intro paper</html:li>
+    </html:ul>
   </what-happened>
   <what-happened-perspectives>
-    Still nice to talk to Takashi sometime though we didn't see him today!
-    (Joe: I liked the conversation about nesting, we have some nesting in the sections of the handbook.)
+    <html:ul>
+      <html:li>Still nice to talk to Takashi Iba sometime though we didn’t see him today!</html:li>
+      <html:li>Joe Corneli: I liked the conversation about nesting, we have some nesting in the sections of the handbook</html:li>
+    </html:ul>
   </what-happened-perspectives>
   <learnings-changes>
-    Interesting leads on philosophy: virtualisation diagram, Pierre Laviv, Peirce, Plotino
+    <html:ul>
+      <html:li>Interesting leads on philosophy: <html:a href="https://groups.google.com/forum/#!msg/peeragogy/n3bAWfXNVqg/fw6KNhAaBAAJ">virtualisation diagram</html:a>, <html:a href="https://en.wikipedia.org/wiki/Pierre_L%C3%A9vy">Pierre Lévy</html:a>, <html:a href="https://plato.stanford.edu/entries/peirce/">Charles Saunders Peirce</html:a>, <html:a href="https://plato.stanford.edu/entries/plotinus/">Plotino</html:a></html:li>
+    </html:ul>
   </learnings-changes>
   <what-else-should-change-going-forward>
-    Work towards a full draft this month (with an additional month for polishing up)
-    Details to be broken down as a next step?
-    Join the MetaCAugs workshop on 9th
-    Read more Takashi stuff
-    Joe to follow up with younger generation
+    <html:ul>
+      <html:li>Work towards a full draft this month (with an additional month for polishing up)</html:li>
+      <html:li>Details to be broken down as a next step?</html:li>
+      <html:li>Join the MetaCAugs workshop on 9th</html:li>
+      <html:li>Read more Takashi Iba’s stuff</html:li>
+      <html:li>Joe Corneli to follow up with younger generation</html:li>
+    </html:ul>
   </what-else-should-change-going-forward>
 </peeragogical-action-review>

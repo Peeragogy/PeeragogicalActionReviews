@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<peeragogical-action-review title="Peeragogy Progress PAR 2020-02" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z">
+<peeragogical-action-review title="Peeragogy Progress PAR 2020-02" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
   <intention-review>
-    Learn how to do an online course by conducting an online course
-    Make progress on Version 4 of the handbook
-    Present a poster
-    Peeragogy Poster Presented at the UIC College of Education 11th Annual Research Day
-    You can download a PDF version of the poster here if you’d like! :)
+    <html:ul>
+      <html:li>Learn how to do an online course by conducting an online course</html:li>
+      <html:li>Make progress on version 4 of the Peeragogy Handbook</html:li>
+      <html:li>Present a poster</html:li>
+    </html:ul>
   </intention-review>
   <what-happened>
-    We made some progress on editing the handbook
-    There was a small, but mighty group of people going through the course and it went well!
+    <html:ul>
+      <html:li>We made some progress on editing the Handbook</html:li>
+      <html:li>There was a small, but mighty group of people going through the course and it went well!</html:li>
+      <html:li><html:a href="https://camo.githubusercontent.com/6eb3f221bf07c169510b6544da92b28f89528952/687474703a2f2f7777772e64616e6f66662e6f72672f7065657261676f67792d706f737465722d6665622d323032302e6a706567">Peeragogy Poster</html:a> was <html:a href="https://twitter.com/Danoff/status/1234639456986128384">presented</html:a> at the University of Illinois at Chicago, College of Education, on the 11th Annual Research Day. You can download a <html:a href="http://www.danoff.org/Action-and-Change-in-Peer-Learning-UIC-Research-Day-Feb-2020.pdf">PDF version of the poster</html:a> if you’d like! :)</html:li>
+    </html:ul>
   </what-happened>
   <what-happened-perspectives>
-    The regular meeting times we found in January have been invaluable in terms of keeping us moving and giving our work a heartbeat
-    Like a television show pilot the course still has some kinks to work out, but it is looking very promising for the future
+    <html:ul>
+      <html:li>The <html:a href="https://groups.google.com/forum/#!topic/peeragogy/OB_x-avUBcs">regular meeting times we found in January</html:a> have been invaluable in terms of keeping us moving and giving our work a <html:a href="https://peeragogy.github.io/pattern-heartbeat.html">Heartbeat</html:a></html:li>
+      <html:li>Like a <html:a href="https://en.wikipedia.org/wiki/Television_pilot">television show pilot</html:a> the course still has some kinks to work out, but it is looking very promising for the future</html:li>
+    </html:ul>
   </what-happened-perspectives>
   <learnings-changes>
-    Running an online course on peeragogy is fun
-    Floobits is a nice online tool for editing the handbook that connects directly to GitHub, although it is not the most user friendly for everyone
+    <html:ul>
+      <html:li>Running an online course on peeragogy is fun</html:li>
+      <html:li><html:a href="https://floobits.com">Floobits</html:a> is a nice online tool for editing the Handbook that connects directly to GitHub, although it is not the most user friendly for everyone</html:li>
+    </html:ul>
   </learnings-changes>
   <what-else-should-change-going-forward>
-    Keep improving how we learn and produce things collaboratively!
+    <html:ul>
+      <html:li>Keep improving how we learn and produce things collaboratively!</html:li>
+    </html:ul>
   </what-else-should-change-going-forward>
 </peeragogical-action-review>
