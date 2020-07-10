@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogical-action-review title="Peeragogical Action Reviews Repository Progress PAR 2020-06-16" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
+  <intention-review>
+    We want to collect our previous Peeragogical Action Reviews (PARs) into one place for easy reference and further work. In particular, these PARs can serve as “proto-patterns”: they represent little semi-formal learnings that may have transferable information in them. Before we can extract patterns, we need data, and that’s what this repository achieves.
+  </intention-review>
+  <what-happened>
+    We’re sharing and developing a “good practice” for everyone in the project.
+  </what-happened>
+  <what-happened-perspectives>
+    <html:ul>
+      <html:li>Practice: Getting in the habit of writing PARs collectively during meetings and other interactions would be a good idea</html:li>
+      <html:li>Effort: Let’s contribute to finding a list of the previous PARs</html:li>
+      <html:li>Technical: The repository contains XML formatted documents, we need to learn how to produce those and use them in downstream formats</html:li>
+      <html:li>Mathematics: The PARs are a little bit like “tangent vectors”, maybe we can use them to understand the way the project is changing and evolving</html:li>
+    </html:ul>
+  </what-happened-perspectives>
+  <learnings-changes>
+    This is a key resource of the project that has been “hidden” in the past (consider the iceberg metaphor).
+  </learnings-changes>
+  <what-else-should-change-going-forward>
+    Let’s get in the habit of writing PARs here, and make them a bigger part of the book!
+  </what-else-should-change-going-forward>
+</peeragogical-action-review>
