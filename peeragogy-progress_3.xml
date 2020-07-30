@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogical-action-review title="Peeragogy Progress PAR 3 (2012)" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z">
+  <intention-review>
+    We facilitate an online workshop on “Paragogy and Ubuntu.” It doesn’t go well. We want to understand why.
+  </intention-review>
+  <what-happened>
+    Participants have trouble installing the open source voice chat software Mumble that we suggested they use. There is little activity on the shared Etherpad.
+  </what-happened>
+  <what-happened-perspectives>
+    We briefly discuss trade-offs between community and individual projects. Conference organizers suggest a “good outcome” is just increased awareness of the discourse around peer learning and peer production.
+  </what-happened-perspectives>
+  <learnings-changes>
+    We strengthen our shared skills at working with risk by devising the PAR.
+  </learnings-changes>
+  <what-else-should-change-going-forward>
+    We hope to establish a distributed “mutual aid society”—but we need to work harder to make sure that it’s really mutual.
+  </what-else-should-change-going-forward>
+</peeragogical-action-review>
