@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogical-action-review title="Peeragogy Progress PAR 9" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
+  <intention-review>
+    <html:ul>
+      <html:li>As course co-coordinators we expected to learn more about how to run a course in peeragogy</html:li>
+      <html:li>We expected the participants to learn more peer learning and peer production</html:li>
+      <html:li>Develop a “product” or focus for peeragogy, “what does it do?”</html:li>
+      <html:li>Participants and co-coordinators figure out “What’s in it for me?” with peeragogy and the course itself</html:li>
+    </html:ul>
+  </intention-review>
+  <what-happened>
+    <html:ul>
+      <html:li>HOW: Video conferencing – allows for global participation</html:li>
+      <html:li>Open source ethos – Hermano Cintra</html:li>
+      <html:li>Business orientation – Vitor Bruno</html:li>
+      <html:li>Get practical/aka no mo’ navel gazing – Charlotte Pierce</html:li>
+      <html:li>Building the syllabus taught me how to make a Markdown document in GitHub – Charlie Danoff</html:li>
+    </html:ul>
+  </what-happened>
+  <what-happened-perspectives>
+    <html:ul>
+      <html:li>I felt like we made a lot of great memories and co-created some wonderful learning moments – Charlie Danoff</html:li>
+      <html:li>Gave some structure to my day/week – Charlotte Pierce</html:li>
+      <html:li>Unlike other meetings, I never dreaded these</html:li>
+    </html:ul>
+  </what-happened-perspectives>
+  <learnings-changes>
+    <html:ul>
+      <html:li>Accept “newcomers” – Hermano Cintra, Vitor Bruno</html:li>
+      <html:li>We weren’t always “prepared” :-o</html:li>
+      <html:li>We “kept going”</html:li>
+      <html:li>Organized on calendar (session 6/8, etc.)</html:li>
+      <html:li>Decided on one place to take notes – in this case it was the Zoom chat</html:li>
+      <html:li>Use of other platforms does not need to be disruptive. But it does help to have a central one that others feed into. Synchronizing different apps and platforms remains an ongoing challenge.</html:li>
+    </html:ul>
+  </learnings-changes>
+  <what-else-should-change-going-forward>
+    <html:ul>
+      <html:li>Develop system to encourage participation</html:li>
+      <html:li>Maybe circulate agenda/outline for comment a few days before course session</html:li>
+      <html:li>Develop system for “getting the word out” and onboarding if it brings in new people</html:li>
+      <html:li>Map out a better definition of the course – along the lines of Joe’s for Tufts pilot</html:li>
+      <html:li>Update Rheingoldian meeting roles to have “primary” ones that should be filled first and “nice to have”</html:li>
+      <html:li>Update the Peeragogical Action Review to account for use during an activity itself or after its completed</html:li>
+    </html:ul>
+  </what-else-should-change-going-forward>
+</peeragogical-action-review>
