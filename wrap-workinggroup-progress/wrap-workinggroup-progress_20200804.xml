@@ -1,23 +1,26 @@
-1. Review the intention: what do/did we expect to learn or make together?
-
-We expect to improve the process for the monthly wraps and PARs and to make new ones!
-
-2. Identify what happened: what and how did we learn?
-
-* Catch up, discuss current state of thinking and how to proceed or go into some other direction
-
-3. What are some different perspectives on what’s happening?
-
-* Stephan talked about many possible ideas that are available!
-* Charlie likes all the possible ideas that are available!
-* Overall we are pretty aligned on next steps and action to take forward
-
-4. What did we learn or change during the process?
-
-* We tried to formalize taking notes from this meeting and doing this PAR
-
-5. What else should we change going forward?
-
-* Refreshing to get to meet again!
-* Work on form for PARs
-* Maybe create GitHub issues to track action items or some other platform, so things are not forgotten
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogical-action-review title="Wrap Working Group Progress PAR 2020-08-04" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
+  <intention-review>
+    We expect to improve the process for the monthly wraps and PARs and to make new ones!
+  </intention-review>
+  <what-happened>
+    Catch up, discuss current state of thinking and how to proceed or go into some other direction.
+  </what-happened>
+  <what-happened-perspectives>
+    <html:ul>
+      <html:li>Stephan Kreutzer talked about many possible ideas that are available!</html:li>
+      <html:li>Charlie Danoff likes all the possible ideas that are available!</html:li>
+      <html:li>Overall we are pretty aligned on next steps and action to take forward</html:li>
+    </html:ul>
+  </what-happened-perspectives>
+  <learnings-changes>
+    We tried to formalize taking notes from this meeting and doing this PAR.
+  </learnings-changes>
+  <what-else-should-change-going-forward>
+    <html:ul>
+      <html:li>Refreshing to get to meet again!</html:li>
+      <html:li>Work on form for PARs</html:li>
+      <html:li>Maybe create GitHub issues to track action items or some other platform, so things are not forgotten</html:li>
+    </html:ul>
+  </what-else-should-change-going-forward>
+</peeragogical-action-review>
