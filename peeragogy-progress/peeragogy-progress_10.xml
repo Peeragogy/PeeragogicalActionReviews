@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogical-action-review title="Peeragogy Progress PAR 10 (2020-10-06)" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
+  <intention-review>
+    <html:ul>
+      <html:li>To review the Roadmap pattern in our Futures journal paper, and try to use it to organize our work on version 4 of the Peeragogy Handbook</html:li>
+      <html:li>To learn if the Roadmap was practical/useful for others/audience</html:li>
+    </html:ul>
+  </intention-review>
+  <what-happened>
+    <html:ul>
+      <html:li>After some review we jumped into the roadmap doc… and created a few new micro-patterns</html:li>
+      <html:li>Got into a discussion about marketing which yielded to some concrete suggestions (e.g., making &amp; marketing mini-handbooks, posting snippets on Twitter)</html:li>
+    </html:ul>
+  </what-happened>
+  <what-happened-perspectives>
+    <html:ul>
+      <html:li>Should we have a spin off group working on marketing? The “funnel” factor → look at the central page and if it’s working as a destination. This could influence the way we build a central website (or other “landing pages” or “dashboards.”)</html:li>
+      <html:li>Can’t please everyone, but have these different materials out there, different groups can hook in</html:li>
+      <html:li>“Content marketing is a good thing (and current hot topic in the white noise of info).” Give value before asking/receiving.</html:li>
+    </html:ul>
+  </what-happened-perspectives>
+  <learnings-changes>
+    <html:ul>
+      <html:li>Learned about perspectives on marketing</html:li>
+      <html:li>We changed our understanding of the roadmap based on the fact we are now trying to do one</html:li>
+      <html:li>Recalling that we’re abiding by specific requirements in the Futures journal paper to work with their readership’s expectations</html:li>
+      <html:li>We identified our “outlets” – print, ebook, twitter/social media, email, one-on-one</html:li>
+    </html:ul>
+  </learnings-changes>
+  <what-else-should-change-going-forward>
+    <html:ul>
+      <html:li>Create spin off groups: marketing, technical, with frequent shared wraps (&amp; monthly larger meetup?)</html:li>
+      <html:li>Pick brain of “predictable revenue” author who Vitor Bruno knows – we could bring her in on the podcast for a mini-tutorial</html:li>
+      <html:li>Be mindful of the value of diverse voices (us as individuals with different skills/outlooks within peeragogy) leading to a common mission (peeragogy)</html:li>
+    </html:ul>
+  </what-else-should-change-going-forward>
+</peeragogical-action-review>
