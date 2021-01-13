@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogical-action-review title="Peeragogy Progress PAR 12 (2020-09-21)" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
+  <intention-review>
+    <html:ul>
+      <html:li>We wished to make Peeragogy Handbook version 4, improving on v3 following feedback</html:li>
+      <html:li>As a stratagem, we worked on a conference presentation for “Anticipation 2019” and a follow-up journal paper for “Futures” (which is now reaching maturity). We’ve also gotten feedback that a “dashboard” could be more useful than a Handbook for some readers!</html:li>
+      <html:li>We now have a developing plan for Handbook v4, and supporting materials, so one question is what we’re going to do with it</html:li>
+    </html:ul>
+  </intention-review>
+  <what-happened>
+    <html:ul>
+      <html:li>For one thing, we have to decide whether we actually do want to write version 4 of the Handbook (and if so, what a practical direction for that work would be)</html:li>
+      <html:li>
+        Apart from the “Futures” journal paper we’ve got these other things going on:
+        <html:ul>
+          <html:li>Charlotte Pierce is heading up a new Peeragogy podcast, with ≈27 episodes planned, to build new collaborations, and to discuss and develop draft material</html:li>
+          <html:li>Joe Corneli submitted a course on “Transdisciplinary Design” for online presentation at the Tufts Experimental College: it is currently under review</html:li>
+          <html:li>Howard Rheingold and Sam Rose are rebuilding the Social Media Classroom which hosted our work on Peeragogy Handbook v1: we can use this and help shape its further development</html:li>
+          <html:li>Stephan Kreutzer is building custom hypertext interfaces that we intend to use to gather and assemble the components of Peeragogy Handbook v4 (and other inputs to the project, like Peeragogical Action Reviews)</html:li>
+          <html:li>We are experimenting with various other media for coauthoring and engagement with the material (possibly related to discussions at MetaCAugs and <html:a href="https://www.collectiveintelligencecollaboratory.com">CICoLab</html:a>, but this is to be determined)</html:li>
+        </html:ul>
+      </html:li>
+    </html:ul>
+  </what-happened>
+  <what-happened-perspectives>
+    <html:ul>
+      <html:li>
+        <html:p>
+          Joe Corneli: I asked a friend of mine to review the latest draft of my New York Public Library fellowship proposal outlining a Peeragogy Handbook v4 proposal. Here are some of his comments:
+        </html:p>
+        <html:ul>
+          <html:li>“It could be just my own limitations, but I can’t really understand what the [Peeragogy] Handbook actually is or what it does.”</html:li>
+          <html:li>“I think if you start a little more philosophically, a little more abstractly, even, you get them on your side right away.”</html:li>
+          <html:li>“I don’t think you can assume everyone is as conversant in tech and pedagogy as you, at least not in the advanced and avant garde way that you are.”</html:li>
+          <html:li>“Section 3 ‘Section Outline’ can go … Just focus on explaining the [Peeragogy] Handbook to someone who has never heard of such a thing.”</html:li>
+          <html:li>“Say more about how exactly the archives and resources at the New York Public Library will do this to make the [Peeragogy] Handbook even better.”</html:li>
+        </html:ul>
+        <html:p>
+          In short, I think it’s really not yet clear to a smart person (from what I wrote) who is not affiliated with the project why we do what we do. … Maybe we don’t even have that clear in our own heads yet… yikes!
+        </html:p>
+        <html:p>
+          However, here’s something we surfaced recently that seemed like the “why” of the “Futures” journal paper:
+        </html:p>
+        <html:blockquote>
+          « Under the right circumstances, participants in a collaborative process can develop an articulate understanding of the constraints they face, and unlock heretofore unthought of solutions. For example, Ariyaratne (1977) tells the story of a rural group who, after 15 years of bureaucratic deadlock, was able to quickly complete an important construction project without outside investment. We are interested in understanding how this kind of breakthrough happens. To explore this theme, we will consider several different settings in which people develop informal future-oriented languages. As dialogue gives participants new ways to articulate and develop their thinking together, problems become easier to understand and resolve. »
+        </html:blockquote>
+        <html:p>
+          To put it simply, at least part of what we’re doing is building informal languages for thinking constructively about problems together.
+        </html:p>
+        <html:p>
+          That’s already a bit long winded but I want to bring in another concern:
+        </html:p>
+        <html:ul>
+          <html:li>Maybe we want to spin off another project distinct from Handbook v4</html:li>
+          <html:li>Maybe we actually want to *wind down* work on the Handbook and switch to a different project. Personally I’d rather keep the Handbook going but the idea of winding it down was raised at a recent meeting, partly on the basis that it’s been four years since we made the last version… so at least we should check the feasibility of making a good v4.</html:li>
+          <html:li>The other factor is that our “Futures” journal paper uses *ideas* from Peeragogy but doesn’t mention that term, so maybe this is a sign that we would be well positioned to spin off into something else</html:li>
+        </html:ul>
+        <html:p>
+          I’m sure there are some other perspectives on what’s going on too, hence the heading here! Possibly some updates on all of the associated projects would bring clarity?
+        </html:p>
+      </html:li>
+      <html:li>Reply here with perspectives if you have ’em!</html:li>
+    </html:ul>
+  </what-happened-perspectives>
+  <learnings-changes>
+    <html:p>
+      In this phase of work — we’ve gotten quite a few possible interrelated projects “spun up” (podcast, course, platform, hypertext, ongoing discussions, the “Futures” journal paper, among others). That’s quite a lot of activity, which *maybe* is leading to some clarity.
+    </html:p>
+    <html:p>
+      Working on the New York Public Library proposal and broader job search activities have been clarifying for me (Joe Corneli) personally. Yesterday I talked with my sister about why I have been doing what I’ve been doing for the last 20 years or so.  I made a comparison (maybe this seems overblown) to the civil rights movement. Many people do not have the same educational privilege that I have had: I’ve had access to great teachers, great learning materials, and a few second chances. Some people don’t have computers, books, language exposure, family support… actually, put this way, wouldn’t you say that access to learning opportunities *is* a civil rights issue?
+    </html:p>
+    <html:p>
+      This is why working for a company that isn’t moving some aspect of content, theory, or practice *forward* seems like something I would probably have a hard time doing.
+    </html:p>
+    <html:p>
+      Anyway, I was glad to articulate things at least a little better for myself.
+    </html:p>
+  </learnings-changes>
+  <what-else-should-change-going-forward>
+    Perhaps we can keep struggling productively with the “six honest serving-men” (Kipling). If anyone wants to weigh in with a Peeragogical Action Review on any of the other efforts I (Joe Corneli) mentioned above that would significantly help to round out my understanding of what’s going on here. Personally I will try to revise my version 4 proposal along the lines of my pal’s critique, since that’s likely to be useful. It’s due on Friday and will be somewhat directly useful for *me* (as input for other proposals). What I’d like to know more about is the extent to which it is useful for *us*.
+  </what-else-should-change-going-forward>
+</peeragogical-action-review>
